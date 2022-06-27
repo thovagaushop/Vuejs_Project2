@@ -1,6 +1,1 @@
-export const messages = [
-    "Happy new year 2022",
-    "'Happy Valentine day'",
-    "'Have a nice day'",
-    "'You have receive a code for paymant'",
-]
+export const messages = {"messages" : ["Happy New Year 2022", "Happy valentine", "Have a nice day", "Good Luck Today"]}

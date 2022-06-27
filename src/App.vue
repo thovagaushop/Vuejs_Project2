@@ -13,7 +13,8 @@ export default {
   data() {
     return {
       messages,
-      message : messages[Math.floor(Math.random() * messages.length)]
+      message : messages.messages[Math.floor(Math.random() * messages.messages.length)]
+
     }
   },
   methods : {
